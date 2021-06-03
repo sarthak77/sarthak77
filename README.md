@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="40%" align="right">
+  <img src="https://media.giphy.com/media/rdma0nDFZMR32/giphy.gif" width="40%" align="right">
   <br><br>
   <samp>
     Hey!! I'm Sarthak Singhal :wave:
